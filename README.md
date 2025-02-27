@@ -1,2 +1,2 @@
-# HH_model
-Matlab code of HH model for a single neuron. 
+# Single neuron modeling
+Matlab code of single neuron modeling. 
