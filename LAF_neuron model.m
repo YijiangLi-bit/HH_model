@@ -1,5 +1,5 @@
 %%
-Initial Paramater
+% Initial Paramater
 R = 10;        %  MΩ
 C = 1;         % C in nF
 Vthr = 5;      %  mV
